@@ -1,0 +1,10 @@
+/*SOCIAL SHARE*/
+.yep_social_media_widget { min-height: 40px; }
+
+.yep_social_media_widget ul{ margin:0; padding:0; float: right;}
+.yep_social_media_widget ul li{ float:left; list-style-type:none; margin:3px 5px;}
+.yep_social_media_widget ul li a { display:block; width:26px; height:26px; background:url(images/social.png) no-repeat; text-indent:-999999px;}
+.yep_social_media_widget ul .facebook a{ background-position:0 0;}
+.yep_social_media_widget ul .picasa a{ background-position:-26px 0;}
+.yep_social_media_widget ul .twitter a{ background-position:-52px 0;}
+.yep_social_media_widget ul .youtube a{ background-position:-78px 0;}
